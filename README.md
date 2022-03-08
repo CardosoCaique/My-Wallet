@@ -23,7 +23,7 @@ Insira um gif ou um link de alguma demonstração
 
 ## Variáveis de Ambiente
 
-Para rodar esse projeto, você vai precisar configurar as seguintes variáveis de ambiente no seu .env
+Para rodar esse projeto, você precisará configurar as seguintes variáveis de ambiente no seu .env
 
 `DB_CONNECTION`
 
