@@ -15,8 +15,6 @@ Composer >= 2.0
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
-
 <a href="https://ibb.co/Btf67DM"><img src="https://i.ibb.co/Czw9XdG/1.png" alt="1" border="0"></a>
 
 <a href="https://ibb.co/M8F764t"><img src="https://i.ibb.co/db8DgqV/2.png" alt="2" border="0" /></a>
